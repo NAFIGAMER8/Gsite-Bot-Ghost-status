@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to **/help**","Listening to **/help**"];
+const statusMessages = ["Listening to /help","Listening to /help"];
 
 
 let currentIndex = 0;
